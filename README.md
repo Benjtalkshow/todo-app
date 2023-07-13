@@ -1,6 +1,6 @@
 ## View Project
 
-**This app was created by [To-Do App]().**
+**The name of this project is [To-Do App](https://benjamin-todo-app.vercel.app/).**
 
 # Getting Started with Create React App
 
@@ -13,7 +13,7 @@ This will start the app in development mode. You can then access the app at http
 **Todo App**
 My Todo App is a simple to-do app built with React that allows you to manage your tasks. It provides features to add, delete, and update tasks, and utilizes local storage for persistent data storage.
 
-**The code for the app is available on GitHub: https://github.com/<Benjtalkshow>/my-todo-app**
+**The code for the app is available on GitHub: [My To-Do Github Repo](https://github.com/Benjtalkshow/my-todo-app).**
 
 ## Features
 
